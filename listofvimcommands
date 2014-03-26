@@ -2,3 +2,5 @@ This is an in progress list of vim commands. If it's in this list, then it means
 
 i - puts you in INSERT mode
 esc - returns to normal mode
+x - in normal mode, it will delete the text in front of it until it reaches the end, then delete the text the cursor is behind
+
